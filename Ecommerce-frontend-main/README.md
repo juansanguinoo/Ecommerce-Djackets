@@ -1,3 +1,3 @@
 # Ecommerce Djackets App
 
-Frontend was made with VueJS
+The frontend was made with VueJS, HTML and CSS
